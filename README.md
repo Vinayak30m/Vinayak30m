@@ -1,4 +1,4 @@
-### Hi there 👋 I am Vinayak Mishra.
+### Hi there 👋 I am Vinayak Mishra..
 
 <!--
 **Vinayak30m/Vinayak30m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
